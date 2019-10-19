@@ -1,3 +1,0 @@
-git start init  ====
-
-update file info : upload to store.

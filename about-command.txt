@@ -1,0 +1,8 @@
+## 本地启动  localhost:4000
+hexo s -g
+
+## hexo-deployer-git自动部署发布工具发布
+	#清空仓库提交
+		hexo clean && hexo g && hexo d
+	#提交
+		hexo g && hexo d
